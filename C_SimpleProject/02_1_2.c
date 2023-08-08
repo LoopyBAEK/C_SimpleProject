@@ -5,4 +5,5 @@ int main() {
 	printf("È«±æµ¿\n");
 	printf("°æ»óºÏµµ 00½Ã 00µ¿\n");
 	printf("010-0000-0000\n");
+	return 0;
 }
