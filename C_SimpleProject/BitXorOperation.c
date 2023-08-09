@@ -8,3 +8,4 @@ int main()
 	printf("XOR 연산의 결과: %d \n", num3);
 	return 0;
 }
+ 
